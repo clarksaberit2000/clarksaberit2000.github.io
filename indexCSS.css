@@ -6,7 +6,7 @@
 body{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("bgindex6.jpg");
 	background-size: cover;
-	background-position: top-center;
+	background-position: top center;
 }
 .main{
 	width: 80%;
